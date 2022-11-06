@@ -1,0 +1,16 @@
+Approximation 1th order:
+probability y io d panouthe lfeng a spe fos n t t hane menomaulisheea indint w thon thinenor f vende loomulicknd mpou y atis t t ly d nd ge hrnd obl wime ye gellerenge ain ormelssour troben nge ald lle ind th nctor se whor siti dalyo s rgeatoumy n d nour wspons as intosead dephif p hat theavainillothalthild r 
+Avg word length: 4.098360655737705
+--------------
+Approximation 3th order:
+probability fare shall ence in to let he act it holeman er my hope all are attend mean ent let all exteel and and wident arm as in ye our fath sweet there it as d think i say show i ll admitter a bediouse rivy hortune or it sould not s rosentimber breation queen gertes to bestill him heaven i here own let ture
+Avg word length: 3.8
+--------------
+Approximation 5th order:
+probability with me with a baker for love orders forgiveness to gives most save more incontine hamlet robin is thought or in man full hath polonius and carefully my lord since both neglected soul that that he whole twenty this the foils the deaths o step no man to my lord my hearing of the hold more on your hi
+Avg word length: 4.2
+--------------
+Approximation 7th order:
+probability of life to this fellow might play your clemency we beg your hands are not guilty creature of the world is not off within s two of his must rendering piece of uncurrent gold be not fit that even to t like fruit unripe sticks on this warning wherein now he is there hamlet speak in this apparition com
+Avg word length: 4.2
+--------------
